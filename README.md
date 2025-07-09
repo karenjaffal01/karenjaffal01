@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Karen Jaffal 👋</h1>
 
 <p align="center">
-  🎓 Engineering Student | 🌐 Web Developer | 🤖 ML Intern @ InvoSpark | 💡 AWS re/Start Trainee
+  🎓 Computer Science Student | 🌐 Web Developer | 🤖 ML Enthusiast
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 - 🛠 I'm a passionate full-stack developer currently building **MERN**, **ASP.NET Core**, and **Machine Learning** projects.
 - 📱 I'm exploring frontend technologies like **React**, **Tailwind CSS**, and **Three.js** to create modern, responsive UIs.
-- 🧠 I enjoy solving coding challenges in **Java**, **C++**, and **Python**, and I’m diving deeper into **AI and cybersecurity**.
-- 🧪 Currently interning at **InvoSpark** in the Machine Learning track and enrolled in the **AWS re/Start** cloud program.
+- 🧠 I enjoy solving coding challenges in **Java**, **C++**, and **Python**, and I’m diving deeper into **AI and Software Engineering**.
 - ✨ I love building real-world applications that blend **design + functionality**.
 
 ---
@@ -43,17 +42,17 @@
 ### 📂 Featured Projects
 
 - 👜 [**Fiora Bags Website**](#) — a modern React + Tailwind showcase for a fictional handbag brand.
-- 📚 [**Book Store Platform**](#) — users can upload, rate, and buy books with their own profile pages.
-- 🥗 [**Nutritionist & Fitness App**](#) — MERN stack app with doctor booking, low-calorie guides, and a starter planner.
-- 🎮 [**Flutter Game**](#) — designed to teach basic programming concepts through interactive play.
-- 🏡 [**Real Estate Website**](#) — PHP + Laravel project with green-beige-brown palette and minimalist frontend.
+- 🍵 [**Tea E-Commerce Website**](#) — a responsive tea shop built using HTML, CSS, and JavaScript with clean design and product filtering.
+- 🥗 [**Recipe Recommendation System**](#) — computer vision + LangChain app that recommends recipes based on food image input, deployed with Flask & Docker.
+- 🏡 [**Real Estate Website**](#) — PHP + Laravel project with MySQL and minimalist frontend.
 
 ---
 
 ### 🎓 Learning & Certifications
 
-- 🔬 ML Internship at **InvoSpark**
 - ☁️ AWS re/Start Program (Cloud Foundations & Deployment)
+- ☁️ AWS Cloud Practitioner Badge
+- 📱 Meta Front-End Developer professional certificate
 - 🧪 Advanced React, ASP.NET Core MVC, and Three.js courses
 - 🎯 Practicing DSA for technical interviews
 
@@ -62,15 +61,4 @@
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/karen-jaffal/)
-- 📧 Email: `karenjaffal@example.com`
-- 🌐 Portfolio: [coming soon...]
-
----
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-  ![Karen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenjaffal&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenjaffal&layout=compact&theme=radical)
-
-</details>
+- 📧 Email: `karenjaffal.05@gmail.com`
